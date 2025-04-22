@@ -4,15 +4,17 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
+  overflow: hidden;
 }
 
 html {
   margin: 0;
   padding: 0;
+  overflow: hidden;
 }
 
 #app {
-  transform: scale(0.60); /* 👈 manually shrink the whole chart */
+  transform: scale(0.70); /* 👈 manually shrink the whole chart */
   transform-origin: top center;
 }
 
