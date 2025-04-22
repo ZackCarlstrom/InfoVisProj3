@@ -85,8 +85,10 @@ h1 {
 #legend svg {
   display: block;
   margin: 0 auto;
+  z-index: 10;
 }
 
 #legend {
   margin-top: 1rem;
+  z-index: 10;
 }
