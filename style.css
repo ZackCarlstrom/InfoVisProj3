@@ -11,6 +11,10 @@ html {
   padding: 0;
 }
 
+#app {
+  transform: scale(0.85); /* 👈 manually shrink the whole chart */
+  transform-origin: top center;
+}
 
 
 h1 {
